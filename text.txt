@@ -1,0 +1,9 @@
+Projeto realizado através do figma:
+    https://www.figma.com/community/file/1103572209069282096
+
+Requesitos utilizados:
+> Projeto Mobile
+> Responsividade até 425px e depois manter a tela centralizada
+> Reutilização de código e componentes
+> Navegações do site
+> Utilizado somente HTML e CSS

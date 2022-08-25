@@ -1,0 +1,11 @@
+@import url(reset.css);
+@import url(index.css);
+
+
+:root {
+    --primary-color: #000000;
+    --secundary-color: #92E3A9;
+    --tertiary-color: #FFFFFF;
+    --background: #F5F2F2;
+    --main-source: "Poppins";
+}
